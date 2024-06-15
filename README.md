@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
     
-   🔭 I’m currently working on Django
+   🔭 I’m currently working on Python Django
     
    🌱 I’m currently learning Data Structure
    
