@@ -10,7 +10,7 @@
     
    🌱 I’m currently learning Data Structure
    
-   💬 Ask me about HTML, CSS, Javascript, Python...
+   💬 Ask me about HTML, CSS, Javascript, Python, Django, SQL
    
 </div>
 <br>
