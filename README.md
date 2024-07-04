@@ -39,7 +39,7 @@
 
 <br/> <br/>
 
-<div align="center">
+<div>
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=white&logo=python&logoColor=3776AB" />&emsp;
    <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=white&logo=javascript&logoColor=F0DB4F" />&emsp;
    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC" />&emsp;
@@ -48,7 +48,6 @@
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=white&logo=bootstrap&logoColor=563D7C" />&emsp;
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=white&logo=figma&logoColor=F24E1E" />&emsp;
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=white&logo=django&logoColor=092E20" />&emsp;
-   <br><br>
    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=white&logo=postgresql&logoColor=4169E1" />&emsp;
    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=white&logo=amazon-aws&logoColor=FF9900" />&emsp;
    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&labelColor=white&logo=nginx&logoColor=009639" />&emsp;
@@ -59,12 +58,3 @@
 <br/>
 <hr/>
 <br>
-
-<p align="center">
-  <a href="https://github.com/safu-van">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=safu-van&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<br/>
-<hr/>
