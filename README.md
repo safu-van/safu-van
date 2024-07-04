@@ -40,20 +40,20 @@
 <br/> <br/>
 
 <div align="center">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB" />&emsp;
-   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" />&emsp;
-   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC" />&emsp;
-   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26" />&emsp;
-   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6" />&emsp;
-   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C" />&emsp;
-   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E" />&emsp;
-   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20" />&emsp;
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=white&logo=python&logoColor=3776AB" />&emsp;
+   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=white&logo=javascript&logoColor=F0DB4F" />&emsp;
+   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC" />&emsp;
+   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=white&logo=html5&logoColor=E34F26" />&emsp;
+   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=white&logo=css3&logoColor=1572B6" />&emsp;
+   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=white&logo=bootstrap&logoColor=563D7C" />&emsp;
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=white&logo=figma&logoColor=F24E1E" />&emsp;
+   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=white&logo=django&logoColor=092E20" />&emsp;
    <br><br>
-   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1" />&emsp;
-   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900" />&emsp;
-   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&labelColor=black&logo=nginx&logoColor=009639" />&emsp;
-   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032" />&emsp;
-   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED" />&emsp;
+   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=white&logo=postgresql&logoColor=4169E1" />&emsp;
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=white&logo=amazon-aws&logoColor=FF9900" />&emsp;
+   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&labelColor=white&logo=nginx&logoColor=009639" />&emsp;
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=white&logo=git&logoColor=F05032" />&emsp;
+   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=white&logo=docker&logoColor=2496ED" />&emsp;
 </div>
 
 <br/>
