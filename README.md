@@ -1,36 +1,70 @@
 <h3 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Safuvan;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Safuvan;" alt="I'm Mohamed Safuvan" />
 </h3>
+
 <hr/>
-<h3 align="center">A Passionate Python Developer</h3>
-<br/>
+<br>
+
 <div align="center">
     
-   🔭 I’m currently working on Python Django
+   👨‍💻  I’m working on Python Django
     
-   🌱 I’m currently learning Data Structure
+   📖 I’m currently learning Data Structure
    
-   💬 Ask me about HTML, CSS, Javascript, Python, Django, SQL
+   📧 Reach me: contactmesafwan@gmail.com
    
 </div>
+
 <br>
+
 <div align="center"> 
-   <a href="mailto:contactmesafwan@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+   <a href="https://safu-van.github.io/personal-site/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee" alt="Linked_In" />
    </a>
-   <a href="#" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+   <a href="https://stackoverflow.com/users/25677602/mohamed-safuvan" target="_blank">
+      <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
    </a>
    <a href="https://safu-van.github.io/personal-site/" target="_blank">
-   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+      <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
+   </a>
+   <a href="https://leetcode.com/u/safuvan_t/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" />
    </a>
 </div>
+
+<br>
 <hr/>
-<h3 align="center" style="border:0;">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+
+<h3 align="center" style="border:0;">⚒️ Used Languages-Frameworks-Tools ⚒️</h3>
+
 <br/> <br/>
+
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,c,python,django,postgresql,aws,nginx,git,docker," />
-   <br>
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB" />&emsp;
+   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" />&emsp;
+   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC" />&emsp;
+   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26" />&emsp;
+   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6" />&emsp;
+   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C" />&emsp;
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E" />&emsp;
+   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20" />&emsp;
+   <br><br>
+   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1" />&emsp;
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900" />&emsp;
+   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&labelColor=black&logo=nginx&logoColor=009639" />&emsp;
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032" />&emsp;
+   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED" />&emsp;
 </div>
+
+<br/>
+<hr/>
+<br>
+
+<p align="center">
+  <a href="https://github.com/safu-van">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=safu-van&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
 <br/>
 <hr/>
