@@ -37,7 +37,7 @@
 
 <h3 align="center" style="border:0;">⚒️ Used Languages-Frameworks-Tools ⚒️</h3>
 
-<br/> <br/>
+<br/>
 
 <div>
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=white&logo=python&logoColor=3776AB" />&emsp;
@@ -56,5 +56,3 @@
 </div>
 
 <br/>
-<hr/>
-<br>
