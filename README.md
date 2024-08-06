@@ -9,7 +9,7 @@
     
    👨‍💻  I’m working on Python Django
     
-   📖 I’m currently learning MongoDB
+   📖 I’m currently learning React Js
    
    📧 Reach me: contactmesafwan@gmail.com
    
