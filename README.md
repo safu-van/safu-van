@@ -46,11 +46,13 @@
    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=white&logo=html5&logoColor=E34F26" />&emsp;
    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=white&logo=css3&logoColor=1572B6" />&emsp;
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=white&logo=bootstrap&logoColor=563D7C" />&emsp;
+   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&labelColor=white&logo=tailwind-css&logoColor=06B6D4" />&emsp;
+   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=white&logo=react&logoColor=61DAFB" />&emsp;
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=white&logo=figma&logoColor=F24E1E" />&emsp;
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=white&logo=django&logoColor=092E20" />&emsp;
    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=white&logo=postgresql&logoColor=4169E1" />&emsp;
+   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=white&logo=mongodb&logoColor=47A248" />&emsp;
    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=white&logo=amazon-aws&logoColor=FF9900" />&emsp;
-   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&labelColor=white&logo=nginx&logoColor=009639" />&emsp;
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=white&logo=git&logoColor=F05032" />&emsp;
    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=white&logo=docker&logoColor=2496ED" />&emsp;
 </div>
