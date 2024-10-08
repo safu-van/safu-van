@@ -48,6 +48,7 @@
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=white&logo=bootstrap&logoColor=563D7C" />&emsp;
    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&labelColor=white&logo=tailwind-css&logoColor=06B6D4" />&emsp;
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=white&logo=react&logoColor=61DAFB" />&emsp;
+   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&labelColor=white&logo=redux&logoColor=764ABC" />
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=white&logo=figma&logoColor=F24E1E" />&emsp;
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=white&logo=django&logoColor=092E20" />&emsp;
    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=white&logo=postgresql&logoColor=4169E1" />&emsp;
