@@ -18,7 +18,7 @@
 <br>
 
 <div align="center"> 
-   <a href="www.linkedin.com/in/mohamed-safuvan" target="_blank">
+   <a href="https://linkedin.com/in/mohamed-safuvan" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee" alt="Linked_In" />
    </a>
    <a href="https://stackoverflow.com/users/25677602/mohamed-safuvan" target="_blank">
