@@ -8,6 +8,8 @@
 <div align="center">
     
    👨‍💻  I’m working on Python Django &  ReactJs
+
+   🌱 I’m currently learning Docker
     
    💬 Ask me about Web Application development & freelancing
    
