@@ -28,7 +28,7 @@
    <a href="https://stackoverflow.com/users/25677602/mohamed-safuvan" target="_blank">
       <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
    </a>
-   <a href="https://safu-van.github.io/personal-site/" target="_blank">
+   <a href="https://safuvan.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
    </a>
    <a href="https://leetcode.com/u/safuvan_t/" target="_blank">
