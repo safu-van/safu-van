@@ -7,9 +7,11 @@
 
 <div align="center">
     
-   👨‍💻  I’m working on Python Django
+   👨‍💻  I’m working on Python Django &  ReactJs
     
-   📖 I’m currently learning React Js
+   💬 Ask me about Web Application development & freelancing
+   
+   ⚡ Fun fact I find easier ways to do my tasks
    
    📧 Reach me: contactmesafwan@gmail.com
    
