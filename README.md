@@ -5,17 +5,17 @@
 <hr/>
 <br>
 
-<div align="center">
+<div>
     
-   👨‍💻  I’m working on Python Django &  ReactJs
+   - 👨‍💻  I’m working on Python Django &  ReactJs
 
-   🌱 I’m currently learning Docker
+   - 🌱 I’m currently learning Docker
     
-   💬 Ask me about Web Application development & freelancing
+   - 💬 Ask me about Web Application development & freelancing
    
-   ⚡ Fun fact I find easier ways to do my tasks
+   - ⚡ Fun fact I find easier ways to do my tasks
    
-   📧 Reach me: contactmesafwan@gmail.com
+   - 📧 Reach me: contactmesafwan@gmail.com
    
 </div>
 
@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
    </a>
    <a href="https://safuvan.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
    </a>
    <a href="https://leetcode.com/u/safuvan_t/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" />
