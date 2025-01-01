@@ -11,7 +11,7 @@
 
    - 🌱 I’m currently learning Docker
     
-   - 💬 Ask me about Web Application development & freelancing
+   - 💬 Ask me about Web development & freelancing
    
    - ⚡ Fun fact I find easier ways to do my tasks
    
